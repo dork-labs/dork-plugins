@@ -1,0 +1,12 @@
+{
+  "name": "persona-toolkit",
+  "version": "0.1.0",
+  "description": "Build and maintain user personas and journey maps for developer tools and B2B SaaS products. Provides skills, slash commands, and templates for creating, generating, reviewing, and managing personas and user journey maps.",
+  "author": {
+    "name": "Dork Labs",
+    "url": "https://github.com/dork-labs"
+  },
+  "repository": "https://github.com/dork-labs/claude-plugins",
+  "license": "MIT",
+  "keywords": ["personas", "user-journey", "ux-research", "developer-tools", "product-management"]
+}

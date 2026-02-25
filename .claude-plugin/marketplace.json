@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    {
+      "name": "persona-toolkit",
+      "version": "0.1.0",
+      "description": "Build and maintain user personas and journey maps for developer tools and B2B SaaS. Combines Alan Cooper's Goal-Directed Design, Jobs-to-be-Done, and Lean UX Proto-Personas.",
+      "path": "./persona-toolkit"
+    }
+  ]
+}
