@@ -68,7 +68,7 @@ Every journey map includes:
 
 ```bash
 # Via marketplace
-/plugin marketplace add dork-labs/claude-plugins
+/plugin marketplace add dork-labs/dork-plugins
 /plugin install persona-toolkit@dork-labs
 
 # Via local development

@@ -6,7 +6,7 @@
     "name": "Dork Labs",
     "url": "https://github.com/dork-labs"
   },
-  "repository": "https://github.com/dork-labs/claude-plugins",
+  "repository": "https://github.com/dork-labs/dork-plugins",
   "license": "MIT",
   "keywords": ["personas", "user-journey", "ux-research", "developer-tools", "product-management"]
 }
