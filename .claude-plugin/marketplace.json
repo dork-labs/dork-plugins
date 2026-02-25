@@ -1,10 +1,25 @@
 {
+  "name": "dork-labs",
+  "owner": {
+    "name": "Dork Labs",
+    "email": "dorian@dork.dev"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Dork Labs",
+    "version": "1.0.0"
+  },
   "plugins": [
     {
       "name": "persona-toolkit",
-      "version": "0.1.0",
+      "source": "./persona-toolkit",
       "description": "Build and maintain user personas and journey maps for developer tools and B2B SaaS. Combines Alan Cooper's Goal-Directed Design, Jobs-to-be-Done, and Lean UX Proto-Personas.",
-      "path": "./persona-toolkit"
+      "version": "0.1.0",
+      "author": {
+        "name": "Dork Labs"
+      },
+      "license": "MIT",
+      "category": "product-management",
+      "keywords": ["personas", "user-journey", "ux-research", "developer-tools"]
     }
   ]
 }
