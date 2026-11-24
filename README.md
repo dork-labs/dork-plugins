@@ -16,10 +16,10 @@ Claude Code plugins by [Dork Labs](https://github.com/dork-labs) — commands, s
 
 ## About
 
-Dork Labs builds open-source tools for autonomous AI development:
+Dork Labs builds DorkOS and the tools we use to make it:
 
-- **[DorkOS](https://github.com/dork-labs/dorkos)** — Web interface and API for Claude Code
-- **[Loop](https://github.com/dork-labs/loop)** — Autonomous product engine that closes the feedback loop
+- **[DorkOS](https://github.com/dork-labs/dorkos)**: a workspace for people and agents. Build and run your business with an agent team.
+- **[Loop](https://github.com/dork-labs/loop)**: Autonomous product engine that closes the feedback loop
 
 These plugins package the workflows and methodologies we use to build our own products — now available for any project.
 
